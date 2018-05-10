@@ -22,6 +22,10 @@ div.wpcf7-response-output {
 
 div.wpcf7-mail-sent-ok {
 	border: 2px solid #398f14;
+	width: 100%;
+	position: relative;
+	top: -142px;
+	bottom: 110px;
 }
 
 div.wpcf7-mail-sent-ng,
